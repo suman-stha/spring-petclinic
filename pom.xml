@@ -216,14 +216,13 @@
    <distributionManagement>
     <repository>
         <id>central</id>
-        <name>0b08964ca52e-releases</name>
-        <url>http://54.165.172.14:8081/artifactory/maven</url>
+        <name>ip-172-31-33-52-releases</name>
+        <url>http://3.16.45.22:8081/artifactory/PetClinic</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>0b08964ca52e-snapshots</name>
-        <url>http://54.165.172.14:8081/artifactory/maven</url>
+        <name>ip-172-31-33-52-snapshots</name>
+        <url>http://3.16.45.22:8081/artifactory/PetClinic</url>
     </snapshotRepository>
 </distributionManagement>
-
 </project>

@@ -216,13 +216,13 @@
    <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-33-52-releases</name>
-        <url>http://3.16.45.22:8081/artifactory/PetClinic</url>
+        <name>instance-1-releases</name>
+        <url>http://35.237.63.197:8081/artifactory/petclinic1</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-33-52-snapshots</name>
-        <url>http://3.16.45.22:8081/artifactory/PetClinic</url>
+        <name>instance-1-snapshots</name>
+        <url>http://35.237.63.197:8081/artifactory/petclinic1</url>
     </snapshotRepository>
 </distributionManagement>
 </project>

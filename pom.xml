@@ -213,16 +213,16 @@
     </license>
   </licenses>
     
-   <distributionManagement>
+<distributionManagement>
     <repository>
         <id>central</id>
         <name>instance-1-releases</name>
-        <url>http://35.237.63.197:8081/artifactory/petclinic2</url>
+        <url>http://35.237.194.77:8081/artifactory/petclinic2</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>instance-1-snapshots</name>
-        <url>http://35.237.63.197:8081/artifactory/petclinic2</url>
+        <url>http://35.237.194.77:8081/artifactory/petclinic2</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
